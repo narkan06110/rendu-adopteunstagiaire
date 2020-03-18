@@ -1,0 +1,27 @@
+#userNav{
+    background-color: rgb(0, 32, 95);
+    border-color: rgb(1, 38, 110);
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+#menuNav{
+    background-color: rgb(3, 16, 43);
+    border-color: rgb(1, 7, 20);
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+#userNav a{
+    color: aliceblue;
+}
+
+
+#menuNav .container-fluid{
+    display: flex;
+}
+
+#menuNav .nav{
+    display: flex;
+    margin: auto;
+}
